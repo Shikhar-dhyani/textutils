@@ -1,9 +1,4 @@
-#TEXT UTILS
+TEXT UTILS
 
-Will Give Three Functionality of to change your text in lower Case , Upper Case and  will tell time taken to read your text.
-
-along with this will give a preview for your text.
-
-Basic React-app using Props , Hooks(useState) Concept .
-
+Text Utils is a utility which can be used to manipulate the text in which way you want .
 
